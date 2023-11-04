@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:latest
 
 EXPOSE 22
 
